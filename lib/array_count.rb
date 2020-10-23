@@ -1,7 +1,7 @@
 def count_strings(array)
 i = 0
 
- if array.count do |string|
+ if array.count do |element|
    string > 0
   
 end
